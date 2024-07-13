@@ -2,8 +2,8 @@ import React from 'react'
 
 const Features = () => {
   return (
-    <div className='h-auto w-full bg-slate-200'>
-      <div className='h-full mx-auto w-[60%] bg-slate-400'>
+    <div className='h-auto w-full '>
+      <div className='h-full mx-auto w-[60%] '>
               <div>
                 <div className='text-5xl font-bold text-slate-700 text-center py-16'>Features</div>
               </div>
