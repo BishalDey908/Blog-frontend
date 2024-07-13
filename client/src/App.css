@@ -1,0 +1,28 @@
+.stickyNav{
+    position: fixed;
+    top: 0;
+    right: 0;
+    box-shadow: 0;
+    width: 100%;
+}
+.blogContent{
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.active{
+    color: rgb(219,39,119);
+}
+@media(max-width:321px){
+    .main{
+        width: 90%;
+    }
+    .box{
+        width: 100%;
+    }
+    .share{
+        width: 100%;
+    }
+}
+
